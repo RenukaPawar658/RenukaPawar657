@@ -1,6 +1,6 @@
 ## About me✍️:
 <h1 align="center">Hi 👋, I'm Renuka Pawar</h1>
-<h3 align="center">A passionate frontend developer and Software Engineer from India </h3>
+<h3 align="center">BLOCKCHAIN DEVELOPER | SMART CONTRACTS | DAPP | ETHEREUM | SOLIDITY | HYPERLEDGER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukapawar657&label=Profile%20views&color=0e75b6&style=flat" alt="renukapawar657" /> </p>
 
