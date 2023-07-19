@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
  🌱 I’m currently learning **Blockchain Technology**
 
- 📫 How to reach me **renupawar657@gmail.com**
+ 📫 How to reach me **renukapawar658@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
